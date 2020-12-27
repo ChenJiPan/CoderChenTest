@@ -1,0 +1,6 @@
+framework module PodFramework {
+  umbrella header "PodFramework.h"
+
+  export *
+  module * { export * }
+}
