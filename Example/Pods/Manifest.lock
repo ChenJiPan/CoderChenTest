@@ -1,0 +1,16 @@
+PODS:
+  - CoderChenTest (0.1.0)
+
+DEPENDENCIES:
+  - CoderChenTest (from `../`)
+
+EXTERNAL SOURCES:
+  CoderChenTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoderChenTest: 9c3281aac7fc7ee9a1c168736b0ae0dad24cf1f9
+
+PODFILE CHECKSUM: 1ec33abdb02353cd4de99ecccf2ae2c57da8d1b1
+
+COCOAPODS: 1.10.0

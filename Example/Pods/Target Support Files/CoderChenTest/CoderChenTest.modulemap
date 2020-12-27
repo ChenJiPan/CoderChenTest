@@ -1,0 +1,6 @@
+framework module CoderChenTest {
+  umbrella header "CoderChenTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
